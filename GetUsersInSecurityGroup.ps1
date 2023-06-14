@@ -1,5 +1,5 @@
-﻿$groupName = "G-SYDN-RES-FS-11840-MO"
-$outputFile = "C:\Temp\GetUsersinSecurityGroup\Balmain-PERFBUS.csv"
+﻿$groupName = "GroupName"
+$outputFile = "C:\Temp\outputfile.csv"
 
 # Import the Active Directory module
 Import-Module ActiveDirectory
